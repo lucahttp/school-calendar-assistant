@@ -54,7 +54,18 @@ https://codepen.io/timhuang/pen/ErpYWM
 
 https://codepen.io/search/pens?q=ics
 
+
+
+https://stackoverrun.com/es/q/2201037
+
+javascript librery
+
+https://github.com/nwcell/ics.js
+
+
 import ics google calendar
+
+
 
 https://support.google.com/calendar/answer/37118?co=GENIE.Platform%3DDesktop&hl=es
 
